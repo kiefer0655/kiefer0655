@@ -1,4 +1,12 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=FF0000&width=800&lines=If+you're+reading+this,+run+5k" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=FF7F00&width=800&lines=If+you're+reading+this,+run+5k" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=FFFF00&width=800&lines=If+you're+reading+this,+run+5k" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00FF00&width=800&lines=If+you're+reading+this,+run+5k" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=0000FF&width=800&lines=If+you're+reading+this,+run+5k" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=4B0082&width=800&lines=If+you're+reading+this,+run+5k" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=8F00FF&width=800&lines=If+you're+reading+this,+run+5k" />
+</p>
 
 <!--
 **kiefer0655/kiefer0655** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
